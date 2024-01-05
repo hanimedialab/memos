@@ -1,7 +1,8 @@
 repo_name: hanimedialab/memos
 report_id: 0565dfeafc4e42b3515ba90068cb1a1c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T23:57:30+00:00'
+timestamp: '2024-01-05T08:47:53+00:00'
 requested_by: hanimedialab
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -55,7 +60,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: store/db/seed/10005__tag.sql
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/store/db/migration/dev/LATEST__SCHEMA.sql
+  detection_source: store/db/migration/dev/LATEST__SCHEMA.sql
   last_updated_by: email
   last_updated_on: 2022-02-03 07:32:03.000000000 Z
 - name: TypeScript
@@ -67,6 +73,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -78,6 +85,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:52.000000000 Z
@@ -89,6 +97,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2022-01-31 11:16:01.000000000 Z
@@ -101,6 +110,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:14.000000000 Z
@@ -114,7 +124,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:52.000000000 Z
@@ -128,8 +138,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: Dockerfile
-  detection_source: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/Dockerfile
+  detection_source: Dockerfile
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
 - name: Protobuf
@@ -140,6 +150,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: boojack
   last_updated_on: 2023-02-22 16:07:16.000000000 Z
@@ -153,7 +164,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -167,7 +178,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/3350/8261421.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -179,6 +190,7 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Steven
   last_updated_on: 2022-09-16 14:48:41.000000000 Z
@@ -192,7 +204,7 @@ tools:
   category: Libraries
   sub_category: Monitoring for Analytics
   image_url: https://img.stackshare.io/service/11559/zustand.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-03-18 14:07:14.000000000 Z
@@ -205,6 +217,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -215,6 +228,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:52.000000000 Z
@@ -226,6 +240,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -235,7 +250,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/uffizzi-preview.yml"
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/.github/workflows/backend-tests.yml
+  detection_source: ".github/workflows/backend-tests.yml"
   last_updated_by: boojack
   last_updated_on: 2022-12-25 02:39:45.000000000 Z
 - name: NuGet
@@ -246,6 +262,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:52.000000000 Z
@@ -259,7 +276,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-01-25 16:35:50.000000000 Z
@@ -273,6 +290,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Go Testing
   image_url: https://img.stackshare.io/service/8695/stretchr.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: Zhizhen He
   last_updated_on: 2023-02-25 12:48:38.000000000 Z
@@ -284,6 +302,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2022-10-14 14:29:28.000000000 Z
@@ -295,6 +314,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: LeeShuang
   last_updated_on: 2021-12-08 15:43:52.000000000 Z
@@ -306,6 +326,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -316,6 +337,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/hanimedialab/memos
   detection_source: Repo Metadata
 - name: axios
   description: Promise based HTTP client for the browser and node.js
@@ -327,7 +349,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2022-05-22 04:02:58.000000000 Z
@@ -339,6 +361,7 @@ tools:
   category: Application Utilities
   sub_category: Translation Service
   image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-03-05 15:45:33.000000000 Z
@@ -352,7 +375,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2022-11-03 13:47:36.000000000 Z
@@ -366,7 +389,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17516/default_911633508f32a5d5016c37ab38144cd661ceb682.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -380,7 +403,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -394,7 +417,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17032/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -408,7 +431,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -422,7 +445,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -436,7 +459,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -450,7 +473,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -464,7 +487,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -478,7 +501,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
@@ -492,7 +515,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-07-15 14:57:57.000000000 Z
@@ -506,7 +529,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Mehmet Altuğ Akgül
   last_updated_on: 2023-03-02 02:05:15.000000000 Z
@@ -520,7 +543,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -534,7 +557,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -548,7 +571,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16587/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: email
   last_updated_on: 2022-02-05 16:13:15.000000000 Z
@@ -562,7 +585,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -583,7 +606,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -597,7 +620,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -611,7 +634,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -625,7 +648,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-04-15 16:47:40.000000000 Z
@@ -639,7 +662,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2023-03-18 14:07:14.000000000 Z
@@ -653,7 +676,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: boojack
   last_updated_on: 2022-12-11 14:15:52.000000000 Z
@@ -667,7 +690,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/hanimedialab/memos/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: CorrectRoadH
   last_updated_on: 2023-07-14 05:09:21.000000000 Z
